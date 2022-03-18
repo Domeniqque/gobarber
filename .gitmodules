@@ -1,0 +1,6 @@
+[submodule "api"]
+	path = api
+	url = git@github.com:Domeniqque/bootcamp-gobarber-api.git
+[submodule "web"]
+	path = web
+	url = git@github.com:Domeniqque/bootcamp-gobarber-web.git
